@@ -20,6 +20,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5447932698884598" crossorigin="anonymous"></script>
+      </head>
       <body className={inter.className}>
         <div className="min-h-screen flex flex-col bg-gradient-to-b from-rose-50 to-white">
           <Header />
