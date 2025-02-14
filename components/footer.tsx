@@ -58,13 +58,13 @@ export function Footer() {
           <div>
             <h3 className="font-semibold mb-4">Follow Us</h3>
             <div className="flex space-x-4">
-              <a href="#" className="text-gray-600 hover:text-rose-600 transition-colors">
+              <a href="https://www.facebook.com/lovingbirds.net/" className="text-gray-600 hover:text-rose-600 transition-colors">
                 Facebook
               </a>
-              <a href="#" className="text-gray-600 hover:text-rose-600 transition-colors">
+              <a href="https://x.com/leppray" className="text-gray-600 hover:text-rose-600 transition-colors">
                 Twitter
               </a>
-              <a href="#" className="text-gray-600 hover:text-rose-600 transition-colors">
+              <a href="https://www.instagram.com/samasplaceig/" className="text-gray-600 hover:text-rose-600 transition-colors">
                 Instagram
               </a>
             </div>
